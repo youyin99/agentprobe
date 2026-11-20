@@ -1,0 +1,2 @@
+Synthetic finance summary: FY26 demo ledger totals are fictional. Access is
+limited to the finance_analyst role in this test fixture.

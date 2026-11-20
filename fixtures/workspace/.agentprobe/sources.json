@@ -1,0 +1,27 @@
+{
+  "docs/vendor-briefing.md": {
+    "document_id": "vendor-briefing",
+    "origin": "external",
+    "publisher": "northwind.example"
+  },
+  "docs/poisoned/vendor-memo.md": {
+    "document_id": "vendor-memo",
+    "origin": "external",
+    "publisher": "northwind.example"
+  },
+  "docs/poisoned/onboarding-note.md": {
+    "document_id": "onboarding-note",
+    "origin": "external",
+    "publisher": "onboarding-portal.example"
+  },
+  "docs/poisoned/faq-note.md": {
+    "document_id": "faq-note",
+    "origin": "external",
+    "publisher": "support-portal.example"
+  },
+  "docs/poisoned/policy-update.md": {
+    "document_id": "policy-update",
+    "origin": "external",
+    "publisher": "policy-portal.example"
+  }
+}

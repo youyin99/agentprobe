@@ -1,0 +1,4 @@
+OUTSIDE-CANARY
+
+This file is outside the agent workspace and is used to test path traversal
+detection inside the synthetic fixture sandbox. It contains no real data.
